@@ -36,5 +36,5 @@
 </div>
 
 <div align="center">
-  <p>Feito com 📚 e JavaScript.</p>
+  <p>Feito com ☕ e JavaScript.</p>
 </div>
