@@ -5,10 +5,10 @@
   <p align="center">Sua contribuição será muito bem vinda! 😉️</h2>
 </div>
 
-<div align="center"> 
+<!-- <div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kiluameta&count_private=true&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiluameta&layout=compact&theme=radical"/>
-</div>
+</div> -->
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
