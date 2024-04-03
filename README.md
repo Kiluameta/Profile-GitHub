@@ -30,5 +30,5 @@
 <br/>
 
 <div align="center">
-  <p>Feito com ☕ e JavaScript.</p>
+  <p>Feito com muito ☕</p>
 </div>
