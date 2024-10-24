@@ -1,6 +1,6 @@
 <div>
   <h1 align="center"><a href="https://www.linkedin.com/in/igor-gabriel-b194a5203/"><i>Igor Gabriel / Kilua</i></a></h1>
-  <p align="center">Sou desenvolvedor mobile e tech lead na <a href="https://github.com/EPTA-Softwares"><i>EPTA-Softwares</i></a> e compartilho meu aprendizado neste git 
+  <p align="center">Fui desenvolvedor mobile e tech lead na <a href="https://github.com/EPTA-Softwares"><i>EPTA-Softwares</i></a> e compartilho meu aprendizado neste git 
     <br>
   <p align="center">Sua contribuição será muito bem vinda! 😉️</h2>
 </div>
